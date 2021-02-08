@@ -1,6 +1,5 @@
-# OssetianCheckers
+# Osetinská dáma 
 
-Osetinská dáma 
 
 + možnost hrát proti počítačovému hráči
 + počítač vs počítač
